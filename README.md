@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yoghenderg
 - 👀 I’m interested in eating, sleeping, coding and repeat!
 - 🌱 I’m currently learning flutter/dart
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through my email: yoghender@yahoo.com
 
 <!---
